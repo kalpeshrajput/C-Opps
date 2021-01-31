@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\MobileComparision\MobileComparision\bin\Debug\netcoreapp3.1\MobileComparision.exe
+C:\Users\hp\source\repos\MobileComparision\MobileComparision\bin\Debug\netcoreapp3.1\MobileComparision.deps.json
+C:\Users\hp\source\repos\MobileComparision\MobileComparision\bin\Debug\netcoreapp3.1\MobileComparision.runtimeconfig.json
+C:\Users\hp\source\repos\MobileComparision\MobileComparision\bin\Debug\netcoreapp3.1\MobileComparision.runtimeconfig.dev.json
+C:\Users\hp\source\repos\MobileComparision\MobileComparision\bin\Debug\netcoreapp3.1\MobileComparision.dll
+C:\Users\hp\source\repos\MobileComparision\MobileComparision\bin\Debug\netcoreapp3.1\MobileComparision.pdb
+C:\Users\hp\source\repos\MobileComparision\MobileComparision\obj\Debug\netcoreapp3.1\MobileComparision.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\MobileComparision\MobileComparision\obj\Debug\netcoreapp3.1\MobileComparision.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\MobileComparision\MobileComparision\obj\Debug\netcoreapp3.1\MobileComparision.AssemblyInfo.cs
+C:\Users\hp\source\repos\MobileComparision\MobileComparision\obj\Debug\netcoreapp3.1\MobileComparision.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\MobileComparision\MobileComparision\obj\Debug\netcoreapp3.1\MobileComparision.dll
+C:\Users\hp\source\repos\MobileComparision\MobileComparision\obj\Debug\netcoreapp3.1\MobileComparision.pdb
+C:\Users\hp\source\repos\MobileComparision\MobileComparision\obj\Debug\netcoreapp3.1\MobileComparision.genruntimeconfig.cache
