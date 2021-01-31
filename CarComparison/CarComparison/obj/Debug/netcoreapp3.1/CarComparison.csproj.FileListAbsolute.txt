@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\CarComparison\CarComparison\obj\Debug\netcoreapp3.1\CarComparison.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\CarComparison\CarComparison\obj\Debug\netcoreapp3.1\CarComparison.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\CarComparison\CarComparison\obj\Debug\netcoreapp3.1\CarComparison.AssemblyInfo.cs
+C:\Users\hp\source\repos\CarComparison\CarComparison\obj\Debug\netcoreapp3.1\CarComparison.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\CarComparison\CarComparison\bin\Debug\netcoreapp3.1\CarComparison.exe
+C:\Users\hp\source\repos\CarComparison\CarComparison\bin\Debug\netcoreapp3.1\CarComparison.deps.json
+C:\Users\hp\source\repos\CarComparison\CarComparison\bin\Debug\netcoreapp3.1\CarComparison.runtimeconfig.json
+C:\Users\hp\source\repos\CarComparison\CarComparison\bin\Debug\netcoreapp3.1\CarComparison.runtimeconfig.dev.json
+C:\Users\hp\source\repos\CarComparison\CarComparison\bin\Debug\netcoreapp3.1\CarComparison.dll
+C:\Users\hp\source\repos\CarComparison\CarComparison\bin\Debug\netcoreapp3.1\CarComparison.pdb
+C:\Users\hp\source\repos\CarComparison\CarComparison\obj\Debug\netcoreapp3.1\CarComparison.dll
+C:\Users\hp\source\repos\CarComparison\CarComparison\obj\Debug\netcoreapp3.1\CarComparison.pdb
+C:\Users\hp\source\repos\CarComparison\CarComparison\obj\Debug\netcoreapp3.1\CarComparison.genruntimeconfig.cache
