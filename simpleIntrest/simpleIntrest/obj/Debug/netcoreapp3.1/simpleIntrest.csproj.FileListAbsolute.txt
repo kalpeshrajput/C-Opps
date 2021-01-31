@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\simpleIntrest\simpleIntrest\obj\Debug\netcoreapp3.1\simpleIntrest.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\simpleIntrest\simpleIntrest\obj\Debug\netcoreapp3.1\simpleIntrest.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\simpleIntrest\simpleIntrest\obj\Debug\netcoreapp3.1\simpleIntrest.AssemblyInfo.cs
+C:\Users\hp\source\repos\simpleIntrest\simpleIntrest\obj\Debug\netcoreapp3.1\simpleIntrest.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\simpleIntrest\simpleIntrest\bin\Debug\netcoreapp3.1\simpleIntrest.exe
+C:\Users\hp\source\repos\simpleIntrest\simpleIntrest\bin\Debug\netcoreapp3.1\simpleIntrest.deps.json
+C:\Users\hp\source\repos\simpleIntrest\simpleIntrest\bin\Debug\netcoreapp3.1\simpleIntrest.runtimeconfig.json
+C:\Users\hp\source\repos\simpleIntrest\simpleIntrest\bin\Debug\netcoreapp3.1\simpleIntrest.runtimeconfig.dev.json
+C:\Users\hp\source\repos\simpleIntrest\simpleIntrest\bin\Debug\netcoreapp3.1\simpleIntrest.dll
+C:\Users\hp\source\repos\simpleIntrest\simpleIntrest\bin\Debug\netcoreapp3.1\simpleIntrest.pdb
+C:\Users\hp\source\repos\simpleIntrest\simpleIntrest\obj\Debug\netcoreapp3.1\simpleIntrest.dll
+C:\Users\hp\source\repos\simpleIntrest\simpleIntrest\obj\Debug\netcoreapp3.1\simpleIntrest.pdb
+C:\Users\hp\source\repos\simpleIntrest\simpleIntrest\obj\Debug\netcoreapp3.1\simpleIntrest.genruntimeconfig.cache
